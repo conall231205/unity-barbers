@@ -6,14 +6,14 @@ const SITE = {
   maps: "https://www.google.com/maps/search/?api=1&query=Unity+Barbers+166+Alfreton+Road+Nottingham+NG7+3NS",
   // confirmed by owner 2026-09-29: 9am to 11pm, 7 days
   hours: { Mon:[9,23], Tue:[9,23], Wed:[9,23], Thu:[9,23], Fri:[9,23], Sat:[9,23], Sun:[9,23] },
-  // Confirmed by owner: cut & beard, shape up. Remaining prices still to confirm.
+  // Confirmed by owner: skin fade, fade/taper, kids, cut & beard, shape up. Remaining prices still to confirm.
   menu: [
     { group:"Cuts", items:[
-      ["Skin fade","Low, mid, high or drop. Blended to the skin.","£18"],
-      ["Fade or taper","Clean blend with length left on top.","£16"],
+      ["Skin fade","Low, mid, high or drop. Blended to the skin.","£15"],
+      ["Fade or taper","Clean blend with length left on top.","£15"],
       ["Scissor cut","Longer styles, texture and shape.","£16"],
       ["Buzz cut","One grade all over, lined up.","£10"],
-      ["Kids' cut","Under 12s.","£12"]
+      ["Kids' cut","Under 12s.","£10"]
     ]},
     { group:"Beard & grooming", items:[
       ["Shape up","Hairline shaped, lined and edged up.","£10"],

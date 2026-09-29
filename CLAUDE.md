@@ -26,10 +26,11 @@ Preview: `python3 -m http.server 8000` then open http://localhost:8000
 - Phone: 07494 831141 (+447494831141). The 07535 and 07424 numbers in old listings are NOT used.
 - Hours: 9am to 11pm, 7 days.
 - Cut & beard: GBP 20. Shape up: GBP 10 (replaced the old "Beard trim & line-up" line).
+- Skin fade: GBP 15. Fade or taper: GBP 15. Kids cut: GBP 10.
 
 ## Still to confirm with the owner
-- Remaining prices are demo values: skin fade 18, fade/taper 16, scissor cut 16, buzz 10,
-  kids 12, hot towel 10, eyebrow 4, hair design from 5, cornrows from 20, student 14.
+- Remaining prices are demo values: scissor cut 16, buzz 10,
+  hot towel 10, eyebrow 4, hair design from 5, cornrows from 20, student 14.
 - Which award they won (Instagram bio says award-winning). No award claim is on the site yet.
 
 ## Rules
