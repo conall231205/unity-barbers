@@ -1,0 +1,4 @@
+capture/frames_*
+*.mp4
+.DS_Store
+*.zip
